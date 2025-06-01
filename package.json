@@ -1,7 +1,6 @@
 {
   "name": "proxy-google",
   "version": "1.0.0",
-  "main": "api/google-proxy.js",
   "type": "module",
   "dependencies": {
     "node-fetch": "^3.3.2"
